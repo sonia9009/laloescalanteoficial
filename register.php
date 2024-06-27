@@ -1,6 +1,6 @@
 <HEAD>
 <title>Register</title>
-<meta http-equiv="refresh" content="0;url=https://affcpatrk.com/link?id=61e93319b23596349ad18dfb&aff_sub2=<?php echo '' . htmlspecialchars($_GET["sub"] ) . ''; ?>">
+<meta http-equiv="refresh" content="0;url=https://youtube.com&aff_sub2=<?php echo '' . htmlspecialchars($_GET["sub"] ) . ''; ?>">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
 <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
